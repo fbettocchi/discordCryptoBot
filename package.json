@@ -1,0 +1,15 @@
+{
+  "name": "cryptobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.io": "^2.5.1",
+    "request": "^2.81.0"
+  }
+}
